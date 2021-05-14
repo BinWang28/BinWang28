@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 
 Total number of visits: ![Visitor Count](https://profile-counter.glitch.me/BinWang28/count.svg)
+![](https://komarev.com/ghpvc/?username=BinWang28&style=flat-square)
 
