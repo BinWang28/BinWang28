@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-You are the # ![Visitor Count](https://profile-counter.glitch.me/BinWang28/count.svg) visitor!
+You are the Number ![Visitor Count](https://profile-counter.glitch.me/BinWang28/count.svg) visitor!
 
