@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Personal Web: https://binwang28.github.io/
+Personal Web: binwang.xyz
 
 <!--
 **BinWang28/BinWang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
