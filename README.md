@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 Personal Web: www.binwang.xyz
 
