@@ -26,11 +26,11 @@
 
 | Project | Description | Stars |
 |---|---|---|
-| 🧠 **[MiroThinker](https://github.com/MiroMindAI/MiroThinker)** | SOTA deep research agent — 74.0 / 75.3 on BrowseComp / BrowseComp-Zh | ![](https://img.shields.io/github/stars/MiroMindAI/MiroThinker?style=flat-square&label=) |
-| 🌊 **[MiroFlow](https://github.com/MiroMindAI/MiroFlow)** | Top-1 on 5+ agent benchmarks · Web UI · multi-model | ![](https://img.shields.io/github/stars/MiroMindAI/MiroFlow?style=flat-square&label=) |
-| 🎧 **[AudioBench](https://github.com/AudioLLMs/AudioBench)** | Universal benchmark for Audio LLMs | ![](https://img.shields.io/github/stars/AudioLLMs/AudioBench?style=flat-square&label=) |
-| 📚 **[audio-ai-hub](https://github.com/BinWang28/audio-ai-hub)** | Curated hub for Audio LLM research | ![](https://img.shields.io/github/stars/BinWang28/audio-ai-hub?style=flat-square&label=) |
-| 📐 **[SBERT-WK](https://github.com/BinWang28/SBERT-WK-Sentence-Embedding)** | IEEE/ACM TASLP 2020 — sentence embedding via BERT dissection | ![](https://img.shields.io/github/stars/BinWang28/SBERT-WK-Sentence-Embedding?style=flat-square&label=) |
+| 🧠 **[MiroThinker](https://github.com/MiroMindAI/MiroThinker)** | SOTA deep research agent — 74.0 / 75.3 on BrowseComp / BrowseComp-Zh | ⭐ 8k+ |
+| 🌊 **[MiroFlow](https://github.com/MiroMindAI/MiroFlow)** | Top-1 on 5+ agent benchmarks · Web UI · multi-model | ⭐ 3k+ |
+| 🎧 **[AudioBench](https://github.com/AudioLLMs/AudioBench)** | Universal benchmark for Audio LLMs | ⭐ 300+ |
+| 📚 **[audio-ai-hub](https://github.com/BinWang28/audio-ai-hub)** | Curated hub for Audio LLM research | ⭐ 900+ |
+| 📐 **[SBERT-WK](https://github.com/BinWang28/SBERT-WK-Sentence-Embedding)** | IEEE/ACM TASLP 2020 — sentence embedding via BERT dissection | ⭐ 180+ |
 
 ---
 
