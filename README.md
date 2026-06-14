@@ -17,7 +17,7 @@
 
 - 🏢 Building AI at **[Apodex](https://apodex.com)**, Singapore
 - 🔬 Working across the **LLM stack** — pre/post-training, agents, audio, evaluation — currently focused on **large-scale data processing & infra** (Ray, distributed pipelines, scale-up environments)
-- 🌏 Active in the open-source AI community — maintainer / contributor across [@MiroMindAI](https://github.com/MiroMindAI), [@AudioLLMs](https://github.com/AudioLLMs), [@SeaEval](https://github.com/SeaEval)
+- 🌏 Active in the open-source AI community — maintainer / contributor across [@AudioLLMs](https://github.com/AudioLLMs), [@SeaEval](https://github.com/SeaEval)
 - ✍️ Personal site & writing: **[binwang.xyz](https://binwang.xyz)**
 
 ---
@@ -26,8 +26,6 @@
 
 | Project | Description | Stars |
 |---|---|---|
-| 🧠 **[MiroThinker](https://github.com/MiroMindAI/MiroThinker)** | SOTA deep research agent — 74.0 / 75.3 on BrowseComp / BrowseComp-Zh | ⭐ 8k+ |
-| 🌊 **[MiroFlow](https://github.com/MiroMindAI/MiroFlow)** | Top-1 on 5+ agent benchmarks · Web UI · multi-model | ⭐ 3k+ |
 | 🎧 **[AudioBench](https://github.com/AudioLLMs/AudioBench)** | Universal benchmark for Audio LLMs | ⭐ 300+ |
 | 📚 **[audio-ai-hub](https://github.com/BinWang28/audio-ai-hub)** | Curated hub for Audio LLM research | ⭐ 900+ |
 | 📐 **[SBERT-WK](https://github.com/BinWang28/SBERT-WK-Sentence-Embedding)** | IEEE/ACM TASLP 2020 — sentence embedding via BERT dissection | ⭐ 180+ |
