@@ -15,7 +15,7 @@
 
 ### 🧭 About Me
 
-- 🏢 Building AI at **[MiroMind](https://miromind.ai)**, Singapore
+- 🏢 Building AI at **[Apodex](https://apodex.com)**, Singapore
 - 🔬 Working across the **LLM stack** — pre/post-training, agents, audio, evaluation — currently focused on **large-scale data processing & infra** (Ray, distributed pipelines, scale-up environments)
 - 🌏 Active in the open-source AI community — maintainer / contributor across [@MiroMindAI](https://github.com/MiroMindAI), [@AudioLLMs](https://github.com/AudioLLMs), [@SeaEval](https://github.com/SeaEval)
 - ✍️ Personal site & writing: **[binwang.xyz](https://binwang.xyz)**
