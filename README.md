@@ -1,56 +1,22 @@
-<h1 align="center">Hi there, I'm Bin Wang 👋</h1>
+# Bin Wang
 
-<p align="center">
-  <em>AI Tech Builder · LLM Generalist · Data & Models</em>
-</p>
+**AI Tech Builder @ Apodex · Pretraining, agentic LLMs, harnesses & evaluation**
 
-<p align="center">
-  <a href="https://binwang.xyz"><img src="https://img.shields.io/badge/Website-binwang.xyz-1f6feb?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="https://orcid.org/0000-0001-9760-8343"><img src="https://img.shields.io/badge/ORCID-0000--0001--9760--8343-a6ce39?style=flat-square&logo=orcid&logoColor=white"></a>
-  <a href="mailto:bwang28c@gmail.com"><img src="https://img.shields.io/badge/Email-bwang28c%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/BinWang28"><img src="https://img.shields.io/github/followers/BinWang28?label=Followers&style=flat-square&logo=github"></a>
-</p>
+Based in Singapore. I work on large language models and the systems around them, including training data pipelines, agent execution, and evaluation. My earlier research spans audio-language models, sentence representations, and dialogue summarization.
 
----
+## Selected open-source work
 
-### 🧭 About Me
+- **[AudioBench](https://github.com/AudioLLMs/AudioBench)** — Co-author of a benchmark for audio-language models, covering speech, audio-scene, and voice understanding. [Paper](https://arxiv.org/abs/2406.16020).
+- **[audio-ai-hub](https://github.com/BinWang28/audio-ai-hub)** — I maintain a curated collection of audio AI papers, models, benchmarks, and datasets. [Browse the hub](https://binwang28.github.io/audio-ai-hub/).
 
-- 🏢 Building AI at **[Apodex](https://apodex.com)**, Singapore
-- 🔬 Working across the **LLM stack** — pre/post-training, agents, audio, evaluation — currently focused on **large-scale data processing & infra** (Ray, distributed pipelines, scale-up environments)
-- 🌏 Active in the open-source AI community — maintainer / contributor across [@AudioLLMs](https://github.com/AudioLLMs), [@SeaEval](https://github.com/SeaEval)
-- ✍️ Personal site & writing: **[binwang.xyz](https://binwang.xyz)**
+## Earlier research and projects
 
----
+- **[MiroThinker](https://github.com/MiroMindAI/MiroThinker)** and **[MiroFlow](https://github.com/MiroMindAI/MiroFlow)** — Earlier work on deep research agents and their execution frameworks.
+- **[SBERT-WK](https://github.com/BinWang28/SBERT-WK-Sentence-Embedding)** — Sentence representations from BERT-based word models (IEEE/ACM TASLP 2020).
+- **[Research Archive on Hugging Face](https://huggingface.co/collections/binwang/research-archive)** — Historical models and datasets retained for reproducibility.
 
-### 🚀 Featured Projects
+## Find me
 
-| Project | Description | Stars |
-|---|---|---|
-| 🎧 **[AudioBench](https://github.com/AudioLLMs/AudioBench)** | Universal benchmark for Audio LLMs | ⭐ 300+ |
-| 📚 **[audio-ai-hub](https://github.com/BinWang28/audio-ai-hub)** | Curated hub for Audio LLM research | ⭐ 900+ |
-| 📐 **[SBERT-WK](https://github.com/BinWang28/SBERT-WK-Sentence-Embedding)** | IEEE/ACM TASLP 2020 — sentence embedding via BERT dissection | ⭐ 180+ |
+[Website & writing](https://binwang.xyz/) · [LinkedIn](https://www.linkedin.com/in/bin-wang-3b7054140/) · [X](https://x.com/Bin_Wangg) · [Hugging Face](https://huggingface.co/binwang) · [ORCID](https://orcid.org/0000-0001-9760-8343) · [Email](mailto:bwang28c@gmail.com)
 
----
-
-### 🛠️ Tech I Work With
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white">
-  <img src="https://img.shields.io/badge/Distributed-1f6feb?style=flat-square">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/LLM%20Agents-6e40c9?style=flat-square">
-  <img src="https://img.shields.io/badge/Audio%20LLM-0a7?style=flat-square">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-</p>
-
----
-
-<p align="center">
-  <sub>💬 Happy to chat tech — drop me a line if something here interests you.</sub>
-  <br>
-  <sub>⚠️ <strong>Not open to research / paper collaborations</strong> — especially remote ones. Please don't reach out for co-authorship <em>unless you genuinely believe I can make a unique contribution to the research.</em></sub>
-</p>
+Currently focused on industry work and not taking on new research collaborations.
