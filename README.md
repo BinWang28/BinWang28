@@ -4,6 +4,11 @@
 
 Based in Singapore. I work on large language models and the systems around them, including training data pipelines, agent execution, and evaluation. My earlier research spans audio-language models, sentence representations, and dialogue summarization.
 
+## Current work at Apodex
+
+- **Apodex 1.1** — Research agents that work with files, data, code, and tools. [Open model: Apodex-1.1-mini](https://huggingface.co/apodex/Apodex-1.1-mini).
+- **Apodex 1.0** — Verification-focused agents for deep research. [Open model: Apodex-1.0-mini](https://huggingface.co/apodex/Apodex-1.0-mini).
+
 ## Selected open-source work
 
 - **[AudioBench](https://github.com/AudioLLMs/AudioBench)** — Co-author of a benchmark for audio-language models, covering speech, audio-scene, and voice understanding. [Paper](https://arxiv.org/abs/2406.16020).
