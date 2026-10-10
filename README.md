@@ -1,17 +1,18 @@
 # Bin Wang
 
-**AI Tech Builder @ Apodex · Pretraining, agentic LLMs, harnesses & evaluation**
+**AI Research Scientist @ Apodex · Pretraining data, agents & evaluation**
 
-Based in Singapore. I work on large language models and the systems around them, including training data pipelines, agent execution, and evaluation. My earlier research spans audio-language models, sentence representations, and dialogue summarization.
+Based in Singapore. I work on what goes into AI models and how to tell if they're any good: training data pipelines, agent execution, and evaluation. My earlier research spans audio-language models, sentence representations, and dialogue summarization.
 
 ## Current work at Apodex
 
+- **Pretraining data infrastructure** — Acquisition and quality assessment of web data for pretraining, built from scratch.
 - **Apodex 1.1** — Research agents that work with files, data, code, and tools. [Open model: Apodex-1.1-mini](https://huggingface.co/apodex/Apodex-1.1-mini).
 - **Apodex 1.0** — Verification-focused agents for deep research. [Open model: Apodex-1.0-mini](https://huggingface.co/apodex/Apodex-1.0-mini).
 
 ## Selected open-source work
 
-- **[AudioBench](https://github.com/AudioLLMs/AudioBench)** — Co-author of a benchmark for audio-language models, covering speech, audio-scene, and voice understanding. [Paper](https://arxiv.org/abs/2406.16020).
+- **[AudioBench](https://github.com/AudioLLMs/AudioBench)** — I led this benchmark for audio-language models, covering speech, audio-scene, and voice understanding (first author, NAACL 2025). [Paper](https://arxiv.org/abs/2406.16020).
 - **[audio-ai-hub](https://github.com/BinWang28/audio-ai-hub)** — I maintain a curated collection of audio AI papers, models, benchmarks, and datasets. [Browse the hub](https://binwang28.github.io/audio-ai-hub/).
 
 ## Earlier research and projects
